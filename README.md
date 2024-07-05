@@ -1,11 +1,32 @@
-# Welcome to Castor Security!
+# Norlin
 
-## About us
+Norlin is a creative modern theme with a clean design specially created for dark themes lovers.
 
-We are a Swiss IT security company founded in 2024, specializing in red teaming and vulnerability research. Our mission is to help organizations enhance their cybersecurity defenses and protect their valuable assets in an ever-evolving digital landscape.
+Norlin theme is fully responsive and looks great on mobile devices and has a beautiful and modern design that is best suited for your personal or corporate blog. You can easily customize the theme by changing the accent colors, the arrangement of the widgets, etc.
 
-At Castor Security, we take pride in our cutting-edge approach to cybersecurity. Our team of experts leverages the latest technologies and methodologies to stay ahead of emerging cyber threats and provide tailored solutions to meet each client's unique security needs.
+* * *
 
-Through rigorous red teaming exercises and in-depth vulnerability research, we offer comprehensive security assessments and proactive recommendations to mitigate risks effectively. Trust Castor Security to be your partner in safeguarding your digital infrastructure and maintaining a resilient security posture.
+### Demo
 
-Stay secure with Castor Security.
+Check the theme in action [Demo](https://norlin.netlify.app/)
+
+* * *
+
+### Deployment
+
+To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `bundle exec jekyll serve` to start the Jekyll server.
+
+I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
+
+
+* * *
+
+### Documentation
+
+Before using the Norlin theme, please read the attached documentation.
+
+* * *
+
+### Support
+
+<p>If you have any questions or feedback about the theme, please feel free to contact me by mail <a href="mailto:hi.artemsheludko@gmail.com">Contact</a><p>

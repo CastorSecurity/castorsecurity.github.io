@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Castor Security</title>
+    <description>Castor Security – Stay secure.</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 03 Jul 2024 15:14:57 -0400</pubDate>
+    <lastBuildDate>Wed, 03 Jul 2024 15:14:57 -0400</lastBuildDate>
+    <generator>Jekyll v4.3.3</generator>
+    
+      <item>
+        <title>Intro</title>
+        <description>&lt;p&gt;Welcome to the Castor Security blog, where we delve into the fascinating world of cybersecurity and share insights from our engagements uncovering vulnerabilities in software and systems.&lt;/p&gt;
+
+&lt;p&gt;In the coming weeks, we will be sharing detailed write-ups about the intriguing bugs we have encountered during our engagements. From critical vulnerabilities in popular software applications to unique security flaws in emerging technologies, our blog will provide a behind-the-scenes look at the exciting discoveries made by our researchers. In the meanwhile&lt;/p&gt;
+
+&lt;p&gt;Stay secure.&lt;/p&gt;
+
+&lt;p&gt;Castro Security&lt;/p&gt;
+</description>
+        <pubDate>Wed, 03 Jul 2024 09:01:35 -0400</pubDate>
+        <link>/Intro</link>
+        <guid isPermaLink="true">/Intro</guid>
+        
+        <category>Announcement</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
